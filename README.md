@@ -4,21 +4,21 @@ Sales Data Analysis using Excel (Dashboard + Insights)
 Overview
 This project analyzes sales data using Excel. It includes data cleaning, analysis using pivot tables, and a dashboard to visualize key insights.
 <br>
-Tools Used:
-MS Excel
-Pivot Tables
-Data Cleaning
+Tools Used:<br>
+MS Excel<br>
+Pivot Tables<br>
+Data Cleaning<br>
 Data Visualization
 <br>
-Key Insights:
-South region has highest sales
-Technology category is most profitable
-Sales peak in August
+Key Insights:<br>
+South region has highest sales<br>
+Technology category is most profitable.<br>
+Sales peak in August.<br>
 Top customer: Brenda Jones
 <br>
-Dashboard:
+Dashboard:<br>
 ![Dashboard](salesdashboard1.png)
 <br>
 Files Included:
-Sales dataset (Excel)
+<br>Sales dataset (Excel)<br>
 Dashboard screenshot
