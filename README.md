@@ -15,6 +15,9 @@ Technology category is most profitable
 Sales peak in August
 Top customer: Brenda Jones
 
+Dashboard:
+![Dashboard](salesdashboard1.png)
+
 Files Included:
 Sales dataset (Excel)
 Dashboard screenshot
